@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Voting System</string>
+    <string name="admin">Admin</string>
+    <string name="user">User</string>
+    <string name="add_contestant">Add Contestant</string>
+    <string name="set_voting_period">Set Voting Period</string>
+    <string name="view_results">View Results</string>
+    <string name="login">Login</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="vote">Vote</string>
+    <string name="results">Results</string>
+</resources>

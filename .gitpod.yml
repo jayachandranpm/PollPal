@@ -1,0 +1,8 @@
+image: gitpod/workspace-full
+tasks:  
+  - name: Set up Android Studio    
+    init: |      
+      sudo apt update      
+      sudo apt install snapd      
+      sudo snap install android-studio --classic      
+      android-studio

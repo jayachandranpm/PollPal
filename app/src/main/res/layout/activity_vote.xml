@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <RadioGroup
+        android:id="@+id/contestantsRadioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <!-- Radio buttons for contestants will be added dynamically -->
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/voteButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vote" />
+</LinearLayout>
